@@ -1,0 +1,22 @@
+memcpy = 0x800054f4;
+zz_item_get_bag_slot = 0x8015ef48;
+heroItemAddItemDataId = 0x8014CAE8;
+heroCatchPokemon = 0x8014cf5c;
+fightSeqItemSeq_AddPoke = 0x80218ef0;
+pokemonGet = 0x80152ae0;
+zz_get_trainer_data_start_offset = 0x801cefb4;
+zz_battle_pokemon_get_shadow_id_safely = 0x801490e8;
+zz_battle_pokemon_data_get_species = 0x801495fc;
+zz_battle_pokemon_data_get_level_a = 0x80149554;
+heroBiosGetSexDataId = 0x8014df08;
+zz_trainer_get_tid = 0x8014e118;
+cmpHero = 0x801c1930;
+
+darkPokemonBiosGetReliveFlag = 0x8014c358;
+darkPokemonBiosSetReliveFlag = 0x8014c39c;
+darkPokemonSetStatus = 0x8014b31c;
+zz_shadow_id_get_start_of_stored_shadow_data = 0x8014bda4;
+fightFloorSetFightResultId = 0x801f3dac;
+zz_get_battle_result = 0x8020d83c;
+zz_set_battle_result = 0x8020d834;
+WS_ZENMETSU_CHECK = 0x802125b4;
